@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Maicol Montoya</h1>
 <h3 align="center">Un apasionado programador web de Colombia</h3>
 
-💬 descubre más sobre mí:**Soy un joven programador web al que le encanta crear páginas web y continúa mejorando cada día.**
+💬 Más sobre mí : **Soy un joven programador web al que le encanta crear páginas web y continúa mejorando cada día.**
 
 <h3 align="center">Conéctate conmigo:</h3>
 <p align="center">
