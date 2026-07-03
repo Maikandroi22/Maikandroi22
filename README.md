@@ -14,5 +14,30 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=maikandroi22&show_icons=true&locale=en&layout=compact" alt="maikandroi22" /></p>
 
 
+<p align="center">
+  <img src="images.jpg" alt="Logo" width="300">
+</p>
+<p align="center">
+  <img src="images.jpg" alt="Logo" width="300">
+</p>
+<p align="center">
+  <img src="images.jpg" alt="Logo" width="300">
+</p>
+<p align="center">
+  <img src="images.jpg" alt="Logo" width="300">
+</p>
+<p align="center">
+  <img src="images.jpg" alt="Logo" width="300">
+</p>
+<p align="center">
+  <img src="images.jpg" alt="Logo" width="300">
+</p>
+<p align="center">
+  <img src="images.jpg" alt="Logo" width="300">
+</p>
+<p align="center">
+  <img src="images.jpg" alt="Logo" width="300">
+</p>
+
 
 
