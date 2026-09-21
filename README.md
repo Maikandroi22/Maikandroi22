@@ -13,12 +13,5 @@
 
 
 
-<p align="center">
-  <img src="images.jpg" alt="Logo" width="300">
-</p>
-<p align="center">
-  <img src="images.jpg" alt="Logo" width="300">
-</p>
-
 
 
